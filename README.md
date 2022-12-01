@@ -2,12 +2,10 @@
 
 ###
 
-<h3 align="left">Cybersecurity and computer science are my life ❤️</h3>
-
 # 🙋‍♂️ **About me**
 
--   🚩 **I'm currently playing CTF**
--   ✨ **I love coding bots**
+-   🚩 **I'm playing CTF**
+-   ✨ **I coding bots**
 
 -   👨‍💻 **I’m currently working as Pentester & DevSecOps**
 -   🎲 **fact : Python > all**
