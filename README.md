@@ -38,5 +38,5 @@
 
 # 🏆**Badges  :**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/DoubleTake.png" alt="TryHackMe">
+<img src="[https://tryhackme-badges.s3.amazonaws.com/DoubleTake.png](https://tryhackme-badges.s3.amazonaws.com/DoubleTake.png)" alt="TryHackMe">
 
