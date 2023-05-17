@@ -1,21 +1,6 @@
-<h2 align="left">Hi 👋 I'm DoubleTake</h2>
+<h2 align="left">DoubleTake</h2>
 
-### 🙋‍♂️ **About me**
+![](https://komarev.com/ghpvc/?username=DoubleTakes)
+<p align="left"><a href="https://twitter.com/LeDoubleTake" target="blank"><img src="https://img.shields.io/twitter/follow/LeDoubleTake?logo=twitter&style=for-the-badge" alt="LeDoubleTake Twitter"/></a></p>
 
--   🚩 I'm playing CTF
--   ✨ I coding bots
-
--   👨‍💻 I’m currently working as Pentester & DevSecOps
--   🎲 fact : Python > all
-
-
-<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=DoubleTakes&theme=algolia&show_icons=true" />
-<div align="center">
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleTakes&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-</div>
-
-###
-<br><br>
-
+🚩 [CTF Team OteriHack](https://ctftime.org/team/190074)
